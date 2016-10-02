@@ -1,0 +1,11 @@
+.testRect {
+    fill: lime;
+    stroke: blue;
+}
+
+.testLine {
+    fill: none;
+    stroke: lime;
+    stroke-width: 4px;
+    stroke-linecap: round;
+}
